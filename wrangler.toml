@@ -1,3 +1,8 @@
 name = "drive-title-worker"
 main = "src/index.js"
 compatibility_date = "2024-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "my-binding-"
+database_id = "97af25fd-7937-4a1e-ba19-4cbc9daae4f9"
